@@ -1420,6 +1420,8 @@ a {
   bottom: -50px; }
 
 .img-opacity img {
+  width: 100%;
+  height: 100%;
   -webkit-transition: .2s all ease;
   -o-transition: .2s all ease;
   transition: .2s all ease;
